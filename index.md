@@ -20,10 +20,6 @@
 --------- | --------- | --------- | ---------
 北京市朝阳区芳草地国际学校远洋小学 | 北京市陈经纶中学 | 北京市陈经纶中学 | 南京理工大学
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 ### 5.我的作品
 这是一个我写的
@@ -52,7 +48,7 @@ https://www.lofter.com/blog/echo024167
 - [x] 批判家
 - [x] 艺术家
 - [ ] 童话作家
- ### 但是，在这里请容我呐喊！
+### 但是，在这里请容我呐喊！
    -  ***《夜莺与玫瑰》是永远的神！（破音）***
 - The young king
 > The burden of this world is too great for one man to bear, and the world's sorrow too heavy for one heart to suffer.
