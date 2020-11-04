@@ -45,7 +45,7 @@
 ### 1.喜欢的作家
 ###### orz那可真是太多了。鉴于本人是杂食动物，什么书都读，所以爬墙速度也很快。
 ~~就来谈谈最近最喜欢的作家吧~~
-###`<Oscar Wilde>`
+### `Oscar Wilde>`
 ![Image of Echo](https://Echo19891213.github.io/echo19891213/timg.jpg)
 
   - in my point of view……
@@ -68,7 +68,8 @@
 ###### 个人来讲的话喜欢的剧或者电影，回家会再把它的原著也看一遍。~~（如果它有原著的话）~~比如饥饿游戏和哈利波特……
 ### 3.我喜欢的歌手
 #  ***TAYLOR SWIFT*** 
-# 在这里放一张照片
+
+![Image of Echo](https://Echo19891213.github.io/echo19891213/Taylor.jpg)
 - Seven
 > Love you to the moon and to Saturn, passed down like folk songs, the love lasts so long……
 - Enchanted
