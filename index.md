@@ -24,7 +24,7 @@
 ### 5.我的作品
 这是一个我写的
 小说？~~（啊喂，这鬼东西能被称之为小说吗？whatever, call it what you want...)~~
-[GitHub](https://www.lofter.com/blog/echo024167)
+[my work](https://www.lofter.com/blog/echo024167)
 
 
 
