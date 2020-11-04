@@ -3,8 +3,7 @@
 ###### I don't quite know what yo say, but since this is my website so I guess I could write anything I like in here. So I'm gonna introduce myself and some of my favorite things!
 
 # **关于我**
-#### 悄悄放一张照片
-:eyes:……
+#### 悄悄放一张照片:eyes:……
 ![Image of Echo](https://Echo19891213.github.io/echo19891213/echo.jpg)
 
 ### 1.姓名
