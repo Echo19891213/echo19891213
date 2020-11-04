@@ -8,7 +8,16 @@
 
 ### 1.姓名
 `<尹佳宁/Echo>`
+
 <font color="#FF4500">我要变成这个颜色#FF4500</font>
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 ### 2.性别♀️♂️
 :woman:
