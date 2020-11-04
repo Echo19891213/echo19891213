@@ -3,28 +3,32 @@
 ###### I don't quite know what yo say, but since this is my website so I guess I could write anything I like in here. So I'm gonna introduce myself and some of my favorite things!
 
 # **关于我**
-#### 悄悄放一张照片……
+#### 悄悄放一张照片:eyes:……
 
 ![Image of Echo](https://github.com/Echo19891213/echo19891213/blob/gh-pages/Echo's%20photo.jpg)
 ### 1.姓名
 `<尹佳宁/Echo>`
-### 2.国籍
+
+### 2.性别♀️♂️
+:woman:
+
+### 3.国籍:earth_asia:
 `<中国>`
-### 3. 兴趣爱好
+### 4. 兴趣爱好:sparkling_heart:
 ~~是一个很宅很宅的人~~ 
 喜欢`<读小说>``<看美剧>``<追番>`大多数运动都不爱，但`<喜欢滑雪>`平时懒得动弹，但`<喜欢旅行>`。~~矛盾体本体~~。
 脑洞大，偶尔会突发奇想写点东西。
-### 4.教育经历
+### 5.教育经历	:student:
 
 2008~2014 | 2014~2017 | 2017~2020 | 2020~2024
 --------- | --------- | --------- | ---------
 北京市朝阳区芳草地国际学校远洋小学 | 北京市陈经纶中学 | 北京市陈经纶中学 | 南京理工大学
 
 
-### 5.我的作品
+### 5.我的作品:pen:
 这是一个我写的
 小说？~~（啊喂，这鬼东西能被称之为小说吗？whatever, call it what you want...)~~
-[my work](https://www.lofter.com/blog/echo024167)
+:point_right:戳我[my work](https://www.lofter.com/blog/echo024167)
 
 
 
@@ -35,7 +39,7 @@
 
 
 
-### 5.所学专业
+### 6.所学专业	:paintbrush:
 `<工业设计>`
 # **关于我所喜欢的**
 ### 1.喜欢的作家
@@ -82,8 +86,8 @@
 ##### 最初喜欢她是因为1989专辑中的Blank Space,那时候是2015年，初二组织活动要搭档唱歌，我和汪汪选择了这首歌，当时就被这个节奏吸引了，进而疯狂听她的其他歌曲，惊喜地发现都很合我的口味，当即决定“粉了，粉了”。更重要的是，她好漂亮啊！！~~所以这是一个始于才华，忠于颜值的故事。~~
 ###### 开个玩笑，其实我并不是一个颜狗（超小声）
 ##### 我也很欣赏她的性格，她的勇气，她不安于现状，敢于打破常规，撕掉世人所给予的标签的勇气。
-- [x] **女权主义者**
-- [x] **支持LGBT平权**
+- [x] **女权主义者:dancing_women:**
+- [x] **支持LGBT平权:rainbow_flag:**
 - [x] **A SLIENCE BREAKER**
 
 
