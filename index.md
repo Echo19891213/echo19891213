@@ -5,19 +5,10 @@
 # **关于我**
 #### 悄悄放一张照片:eyes:……
 ![Image of Echo](https://Echo19891213.github.io/echo19891213/echo.jpg)
-
+:eyes:
 ### 1.姓名
 `<尹佳宁/Echo>`
-
 <font color="#FF4500">我要变成这个颜色#FF4500</font>
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
 ### 2.性别♀️♂️
 :woman:
