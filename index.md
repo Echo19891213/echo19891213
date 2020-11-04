@@ -4,10 +4,8 @@
 
 # **关于我**
 #### 悄悄放一张照片:eyes:……
-
-![Image of Echo](https://github.com/Echo19891213/echo19891213/blob/gh-pages/Echo's%20photo.jpg)
 ![Image of Echo](https://Echo19891213.github.io/echo19891213/Echo's%20photo.jpg)
-![Image of Echo](https://Echo19891213.github.io/echo19891213/timg.jpg)
+
 ### 1.姓名
 `<尹佳宁/Echo>`
 
@@ -48,7 +46,8 @@
 ###### orz那可真是太多了。鉴于本人是杂食动物，什么书都读，所以爬墙速度也很快。
 ~~就来谈谈最近最喜欢的作家吧~~
 ###`<Oscar Wilde>`
-![Image of Oscar Wilde](https://github.com/Echo19891213/echo19891213/blob/gh-pages/timg.jpg)
+![Image of Echo](https://Echo19891213.github.io/echo19891213/timg.jpg)
+
   - in my point of view……
 #### ***王尔德***
 - [x] 批判家
