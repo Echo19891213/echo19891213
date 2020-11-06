@@ -81,11 +81,11 @@
 - ALBUMS
 1. Taylor Swift
 1. Fearless
-1. Speak Now 
-1. RED
+1.<font color="#8A2BE2">Speak Now#8A2BE2</font>
+1.<font color="#B22222">RED#B22222</font>
 1. **1989**(~~爱的开始~~)
 1. Reputation
-1. Lover
+1. <font color="#E9967A">Lover#E9967A</font>
 1. Floklore
 ##### 最初喜欢她是因为1989专辑中的Blank Space,那时候是2015年，初二组织活动要搭档唱歌，我和汪汪选择了这首歌，当时就被这个节奏吸引了，进而疯狂听她的其他歌曲，惊喜地发现都很合我的口味，当即决定“粉了，粉了”。更重要的是，她好漂亮啊！！~~所以这是一个始于才华，忠于颜值的故事。~~
 ###### 开个玩笑，其实我并不是一个颜狗（超小声）
