@@ -1,5 +1,5 @@
 # Echo's very first github page
-#### Hello，nice to meet you and welcome to my personal website.
+#### Hello，nice to meet you guys and welcome to my personal website.
 ###### I don't quite know what yo say, but since this is my website so I guess I could write anything I like in here. So I'm gonna introduce myself and some of my favorite things!
 
 # **关于我**
@@ -95,8 +95,10 @@
 1. Wildest dreams
 1. Daylight 
 1. ……
-#### God, I like every single song that she wrote. 
+#### 我几乎喜欢她写的每一首歌，什么时候才能有机会去她的演唱会啊！！！~~（你穷 你不配 哭晕在厕所）~~
 
+# So, that's all about me and my favorite things. There's just so much left to say, but I can't write all of it on this website.
+# Anyway, thank you for your time.
 
 
 
