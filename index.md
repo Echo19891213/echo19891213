@@ -8,8 +8,7 @@
 
 ### 1.姓名
 `<尹佳宁/Echo>`
-	
-<font color="#FF4500">我要变成这个颜色#FF4500</font>
+
 
 ### 2.性别♀️♂️
 `<女>`
@@ -70,20 +69,34 @@
 - Out of the woods
 > The rest of the world was in black and white, but we were in screaming color.
 - ALBUMS
-1. Taylor Swift
-1. Fearless
+1. <font color="#1E90FF">Taylor Swift#1E90FF</font>
+1. <font color="#B8860B">FEARLESS#B8860B</font>
 1. <font color="#8A2BE2">Speak Now#8A2BE2</font>
 1. <font color="#B22222">RED#B22222</font>
 1. **1989**(~~爱的开始~~)
-1. Reputation
+1. <font color="#000000">Reputation#000000</font>
 1. <font color="#E9967A">Lover#E9967A</font>
-1. Floklore
+1. <font color="#696969">Floklore#696969</font>
+
 ##### 最初喜欢她是因为1989专辑中的Blank Space,那时候是2015年，初二组织活动要搭档唱歌，我和汪汪选择了这首歌，当时就被这个节奏吸引了，进而疯狂听她的其他歌曲，惊喜地发现都很合我的口味，当即决定“粉了，粉了”。更重要的是，她好漂亮啊！！~~所以这是一个始于才华，忠于颜值的故事。~~
 ###### 开个玩笑，其实我并不是一个颜狗（超小声）
 ##### 我也很欣赏她的性格，她的勇气，她不安于现状，敢于打破常规，撕掉世人所给予的标签的勇气。
 - [x] **女权主义者**
 - [x] **支持LGBT平权**
 - [x] **A SLIENCE BREAKER**
+
+- MY FAVORITE SONGS
+1. Treacherous
+1. This love
+1. Out of the woods
+1. Cornelia street
+1. Style
+1. Getaway car
+1. Wildest dreams
+1. Daylight 
+1. ……
+#### God, I like every single song that she wrote. 
+
 
 
 
