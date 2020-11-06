@@ -95,36 +95,37 @@
 - [x] **A SLIENCE BREAKER**
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <title>Simple example - Editor.md examples</title>
+    <link rel="stylesheet" href="../css/style.css"/>
+    <link rel="stylesheet" href="../css/editormd.css"/>
+</head>
+<body>
+<div id="container">
+    <div id="mdEditor" class="editormd">
+        <textarea class="editormd-markdown-textarea" name="markdown-area" style="display:none;"># 请输入标题</textarea>
+        <textarea class="editormd-html-textarea" name="html-area"></textarea>
+    </div>
+</div>
+<script src="../js/jquery.min.js"></script>
+<script src="../js/editormd.js"></script>
+<script type="text/javascript">
+    var editor;
+    $(function () {
+        editor = editormd("mdEditor", {
+            width: "90%",
+            height: 640,
+            syncScrolling: "single",
+            path: "../lib/",
+            emoji:true
+        });
+    });
+</script>
+</body>
+</html>
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
 
 
-
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Echo19891213/echo19891213/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
