@@ -8,7 +8,7 @@
 :eyes:
 ### 1.姓名
 `<尹佳宁/Echo>`
-
+	:raised_back_of_hand:
 <font color="#FF4500">我要变成这个颜色#FF4500</font>
 
 ### 2.性别♀️♂️
