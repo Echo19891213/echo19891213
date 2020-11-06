@@ -97,8 +97,8 @@
 1. ……
 #### 我几乎喜欢她写的每一首歌，什么时候才能有机会去她的演唱会啊！！！~~（你穷 你不配 哭晕在厕所）~~
 
-# So, that's all about me and my favorite things. There's just so much left to say, but I can't write all of it on this website.
-# Anyway, thank you for your time.
+### 所以这就是我想写的全部内容了！
+### 感谢您的观看！
 
 
 
