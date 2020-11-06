@@ -5,7 +5,7 @@
 # **关于我**
 #### 悄悄放一张照片:eyes:……
 ![Image of Echo](https://Echo19891213.github.io/echo19891213/echo.jpg)
-
+:eyes:
 ### 1.姓名
 `<尹佳宁/Echo>`
 
@@ -81,8 +81,8 @@
 - ALBUMS
 1. Taylor Swift
 1. Fearless
-1.<font color="#8A2BE2">Speak Now#8A2BE2</font>
-1.<font color="#B22222">RED#B22222</font>
+1. <font color="#8A2BE2">Speak Now#8A2BE2</font>
+1. <font color="#B22222">RED#B22222</font>
 1. **1989**(~~爱的开始~~)
 1. Reputation
 1. <font color="#E9967A">Lover#E9967A</font>
