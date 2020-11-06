@@ -3,45 +3,36 @@
 ###### I don't quite know what yo say, but since this is my website so I guess I could write anything I like in here. So I'm gonna introduce myself and some of my favorite things!
 
 # **关于我**
-#### 悄悄放一张照片:eyes:……
+#### 悄悄放一张照片……
 ![Image of Echo](https://Echo19891213.github.io/echo19891213/echo.jpg)
-:eyes:
+
 ### 1.姓名
 `<尹佳宁/Echo>`
-	:raised_back_of_hand:
+	
 <font color="#FF4500">我要变成这个颜色#FF4500</font>
 
 ### 2.性别♀️♂️
-:woman:
+`<女>`
 
-### 3.国籍:earth_asia:
+### 3.国籍
 `<中国>`
-### 4. 兴趣爱好:sparkling_heart:
+### 4. 兴趣爱好
 ~~是一个很宅很宅的人~~ 
 喜欢`<读小说>``<看美剧>``<追番>`大多数运动都不爱，但`<喜欢滑雪>`平时懒得动弹，但`<喜欢旅行>`。~~矛盾体本体~~。
 脑洞大，偶尔会突发奇想写点东西。
-### 5.教育经历	:student:
+### 5.教育经历	
 
 2008~2014 | 2014~2017 | 2017~2020 | 2020~2024
 --------- | --------- | --------- | ---------
 北京市朝阳区芳草地国际学校远洋小学 | 北京市陈经纶中学 | 北京市陈经纶中学 | 南京理工大学
 
 
-### 5.我的作品:pen:
+### 5.我的作品
 这是一个我写的
 小说？~~（啊喂，这鬼东西能被称之为小说吗？whatever, call it what you want...)~~
 :point_right:戳我[my work](https://www.lofter.com/blog/echo024167)
 
-
-
-
-
-
-
-
-
-
-### 6.所学专业	:paintbrush:
+### 6.所学专业	
 `<工业设计>`
 # **关于我所喜欢的**
 ### 1.喜欢的作家
@@ -90,42 +81,10 @@
 ##### 最初喜欢她是因为1989专辑中的Blank Space,那时候是2015年，初二组织活动要搭档唱歌，我和汪汪选择了这首歌，当时就被这个节奏吸引了，进而疯狂听她的其他歌曲，惊喜地发现都很合我的口味，当即决定“粉了，粉了”。更重要的是，她好漂亮啊！！~~所以这是一个始于才华，忠于颜值的故事。~~
 ###### 开个玩笑，其实我并不是一个颜狗（超小声）
 ##### 我也很欣赏她的性格，她的勇气，她不安于现状，敢于打破常规，撕掉世人所给予的标签的勇气。
-- [x] **女权主义者:dancing_women:**
-- [x] **支持LGBT平权:rainbow_flag:**
+- [x] **女权主义者**
+- [x] **支持LGBT平权**
 - [x] **A SLIENCE BREAKER**
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8"/>
-    <title>Simple example - Editor.md examples</title>
-    <link rel="stylesheet" href="../css/style.css"/>
-    <link rel="stylesheet" href="../css/editormd.css"/>
-</head>
-<body>
-<div id="container">
-    <div id="mdEditor" class="editormd">
-        <textarea class="editormd-markdown-textarea" name="markdown-area" style="display:none;"># 请输入标题</textarea>
-        <textarea class="editormd-html-textarea" name="html-area"></textarea>
-    </div>
-</div>
-<script src="../js/jquery.min.js"></script>
-<script src="../js/editormd.js"></script>
-<script type="text/javascript">
-    var editor;
-    $(function () {
-        editor = editormd("mdEditor", {
-            width: "90%",
-            height: 640,
-            syncScrolling: "single",
-            path: "../lib/",
-            emoji:true
-        });
-    });
-</script>
-</body>
-</html>
 
 
 
